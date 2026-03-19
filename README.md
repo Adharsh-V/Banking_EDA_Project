@@ -27,6 +27,6 @@ The goal was to:
 
 banking_analysis.pbix → Power BI Dashboard
 
-3.sql → SQL scripts for data cleaning & transformation
+cleaning.sql → SQL scripts for data cleaning & transformation
 
 python scripts.ipynb → Data preprocessing in Python
