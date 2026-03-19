@@ -23,3 +23,10 @@ The goal was to:
 - **Python (Pandas, Matplotlib, Seaborn)** – Exploratory Data Analysis
 - **Power BI** – Dashboard creation & visualization
 
+## Project Files
+
+banking_analysis.pbix → Power BI Dashboard
+
+3.sql → SQL scripts for data cleaning & transformation
+
+python scripts.ipynb → Data preprocessing in Python
